@@ -1,5 +1,5 @@
 {
-totalUsers: 20,
-totalPayingUsers: 10,
-totalChurnedUsers: 5
+    "totalUsers": 20,
+    "totalPayingUsers": 10,
+    "totalChurnedUsers": 5
 }
