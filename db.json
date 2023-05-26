@@ -1,18 +1,20 @@
-[{
-      "$totalUsers": 100,
-    "$totalPayingUsers": 150,
-     "$totalChurnedUsers": 10,
-      "channel": "Google"
-    },
-    {
-      "$totalUsers": 350,
-        "$totalPayingUsers": 150,
-        "$totalChurnedUsers": 15,
-      "channel": "Facebook/Instagram"
-    },
-    {
-      "$totalUsers": 50,
-      "$totalPayingUsers": 50,
-        "$totalChurnedUsers": 30,
-      "channel": "Empfehlung"
-    }]
+[
+   {
+      "$totalUsers":100,
+      "$totalPayingUsers":150,
+      "$totalChurnedUsers":10,
+      "channel":"Google"
+   },
+   {
+      "$totalUsers":350,
+      "$totalPayingUsers":150,
+      "$totalChurnedUsers":15,
+      "channel":"Facebook/Instagram"
+   },
+   {
+      "$totalUsers":50,
+      "$totalPayingUsers":50,
+      "$totalChurnedUsers":30,
+      "channel":"Empfehlung"
+   }
+]
